@@ -1,20 +1,10 @@
-/* Reset */
+@import "reset.css";
+@import "general.css";
+@import "colors.css"
 
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
+/* Home */
 
-body {
-    font-family: 'Roboto', sans-serif;
-}
-
-
-/* General */
-
-
-
+/* Header */
 
 
 
@@ -42,12 +32,12 @@ body {
 /* Desktop-First */
 
 /* DESKTOP */
-/* @media screen and (min-width: 992px) {
+/* @media screen and (max-width: 992px) {
     
 } */
 
 /* TABLET */
-/* @media screen and (min-width: 768px) {
+/* @media screen and (max-width: 768px) {
     
 } */
 
