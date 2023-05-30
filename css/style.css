@@ -1,9 +1,12 @@
 @import "reset.css";
 @import "general.css";
-@import "colors.css"
+@import "colors.css";
 
 /* Home */
-
+.container {
+    max-width: 1170px;
+    margin: 0 auto;
+}
 /* Header */
 
 
@@ -42,7 +45,7 @@
 } */
 
 /* MOBILE PICCOLO */
-/* @media screen and (min-width: 576px) {
+/* @media screen and (max-width: 576px) {
 
 } */
 
